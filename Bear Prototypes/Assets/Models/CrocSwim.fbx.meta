@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 019d0f5ec2a6bbf4fb1bbc62c0ef3318
+timeCreated: 1510803568
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Croc_CSpine
+    100002: Croc_CSpine_ctrl
+    100004: Croc_CSpine_grp
+    100006: Croc_Geo
+    100008: Croc_geo
+    100010: Croc_Head
+    100012: Croc_Head_ctrl
+    100014: Croc_Head_grp
+    100016: Croc_Jaw
+    100018: Croc_Jaw_crtl
+    100020: Croc_Jaw_grp
+    100022: Croc_L_Elbow
+    100024: Croc_L_Elbow_crtl
+    100026: Croc_L_Elbow_grp
+    100028: Croc_L_Foot
+    100030: Croc_L_Foot_crtl
+    100032: Croc_L_Foot_grp
+    100034: Croc_L_Hand
+    100036: Croc_L_Hand_crtl
+    100038: Croc_L_Hand_grp
+    100040: Croc_L_Hip
+    100042: Croc_L_Hip_crtl
+    100044: Croc_L_Hip_crtl 1
+    100046: Croc_L_Knee
+    100048: Croc_L_Knee_ctrl
+    100050: Croc_L_Knee_grp
+    100052: Croc_L_Shoulder
+    100054: Croc_L_Shoulder_ctrl
+    100056: Croc_L_Shoulder_grp
+    100058: Croc_Maw
+    100060: Croc_Maw_crtl
+    100062: Croc_Maw_grp
+    100064: Croc_R_Elbow
+    100066: Croc_R_Elbow_crtl
+    100068: Croc_R_Elbow_crtl 1
+    100070: Croc_R_Foot
+    100072: Croc_R_Foot_crtl
+    100074: Croc_R_Foot_grp
+    100076: Croc_R_Hand
+    100078: Croc_R_Hand_crtl
+    100080: Croc_R_Hand_grp
+    100082: Croc_R_Hip
+    100084: Croc_R_Hip_crtl
+    100086: Croc_R_Hip_crtl 1
+    100088: Croc_R_Knee
+    100090: Croc_R_Knee_ctrl
+    100092: Croc_R_Knee_grp
+    100094: Croc_R_Shoulder
+    100096: Croc_R_Shoulder_ctrl
+    100098: Croc_R_Shoulder_grp
+    100100: Croc_Root
+    100102: Croc_Root_ctrl
+    100104: Croc_Spine
+    100106: Croc_Spine_crtl
+    100108: Croc_Tail_01
+    100110: Croc_Tail_01_ctrl
+    100112: Croc_Tail_01_grp
+    100114: Croc_Tail_02
+    100116: Croc_Tail_02_ctrl
+    100118: Croc_Tail_02_grp
+    100120: Croc_Tail_03
+    100122: Croc_Tail_03_ctrl
+    100124: Croc_Tail_03_grp
+    100126: Croc_Tail_04
+    100128: Croc_Tail_04_ctrl
+    100130: Croc_Tail_04_grp
+    100132: Croc_Tail_05
+    100134: Croc_Tail_05_ctrl
+    100136: Croc_Tail_05_grp
+    100138: Croc_Tail_06
+    100140: Croc_Tail_06_ctrl
+    100142: Croc_Tail_06_grp
+    100144: Croc_Tail_07
+    100146: Croc_Tail_07_ctrl
+    100148: Croc_Tail_07_grp
+    100150: Croc_teeth_BL
+    100152: Croc_teeth_BR
+    100154: Croc_teeth_TL
+    100156: Croc_teeth_TR
+    100158: //RootNode
+    100160: Spine_ctrl_grp
+    400000: Croc_CSpine
+    400002: Croc_CSpine_ctrl
+    400004: Croc_CSpine_grp
+    400006: Croc_Geo
+    400008: Croc_geo
+    400010: Croc_Head
+    400012: Croc_Head_ctrl
+    400014: Croc_Head_grp
+    400016: Croc_Jaw
+    400018: Croc_Jaw_crtl
+    400020: Croc_Jaw_grp
+    400022: Croc_L_Elbow
+    400024: Croc_L_Elbow_crtl
+    400026: Croc_L_Elbow_grp
+    400028: Croc_L_Foot
+    400030: Croc_L_Foot_crtl
+    400032: Croc_L_Foot_grp
+    400034: Croc_L_Hand
+    400036: Croc_L_Hand_crtl
+    400038: Croc_L_Hand_grp
+    400040: Croc_L_Hip
+    400042: Croc_L_Hip_crtl
+    400044: Croc_L_Hip_crtl 1
+    400046: Croc_L_Knee
+    400048: Croc_L_Knee_ctrl
+    400050: Croc_L_Knee_grp
+    400052: Croc_L_Shoulder
+    400054: Croc_L_Shoulder_ctrl
+    400056: Croc_L_Shoulder_grp
+    400058: Croc_Maw
+    400060: Croc_Maw_crtl
+    400062: Croc_Maw_grp
+    400064: Croc_R_Elbow
+    400066: Croc_R_Elbow_crtl
+    400068: Croc_R_Elbow_crtl 1
+    400070: Croc_R_Foot
+    400072: Croc_R_Foot_crtl
+    400074: Croc_R_Foot_grp
+    400076: Croc_R_Hand
+    400078: Croc_R_Hand_crtl
+    400080: Croc_R_Hand_grp
+    400082: Croc_R_Hip
+    400084: Croc_R_Hip_crtl
+    400086: Croc_R_Hip_crtl 1
+    400088: Croc_R_Knee
+    400090: Croc_R_Knee_ctrl
+    400092: Croc_R_Knee_grp
+    400094: Croc_R_Shoulder
+    400096: Croc_R_Shoulder_ctrl
+    400098: Croc_R_Shoulder_grp
+    400100: Croc_Root
+    400102: Croc_Root_ctrl
+    400104: Croc_Spine
+    400106: Croc_Spine_crtl
+    400108: Croc_Tail_01
+    400110: Croc_Tail_01_ctrl
+    400112: Croc_Tail_01_grp
+    400114: Croc_Tail_02
+    400116: Croc_Tail_02_ctrl
+    400118: Croc_Tail_02_grp
+    400120: Croc_Tail_03
+    400122: Croc_Tail_03_ctrl
+    400124: Croc_Tail_03_grp
+    400126: Croc_Tail_04
+    400128: Croc_Tail_04_ctrl
+    400130: Croc_Tail_04_grp
+    400132: Croc_Tail_05
+    400134: Croc_Tail_05_ctrl
+    400136: Croc_Tail_05_grp
+    400138: Croc_Tail_06
+    400140: Croc_Tail_06_ctrl
+    400142: Croc_Tail_06_grp
+    400144: Croc_Tail_07
+    400146: Croc_Tail_07_ctrl
+    400148: Croc_Tail_07_grp
+    400150: Croc_teeth_BL
+    400152: Croc_teeth_BR
+    400154: Croc_teeth_TL
+    400156: Croc_teeth_TR
+    400158: //RootNode
+    400160: Spine_ctrl_grp
+    4300000: Croc_teeth_BL
+    4300002: Croc_teeth_TR
+    4300004: Croc_teeth_TL
+    4300006: Croc_teeth_BR
+    4300008: Croc_geo
+    7400000: GatorSwim
+    9500000: //RootNode
+    13700000: Croc_geo
+    13700002: Croc_teeth_BL
+    13700004: Croc_teeth_BR
+    13700006: Croc_teeth_TL
+    13700008: Croc_teeth_TR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GatorSwim
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

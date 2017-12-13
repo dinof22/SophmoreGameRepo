@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear Prototypes", "Bear Prototypes.csproj", "{BC8D0A47-5B78-7E43-07E3-DAF1C1750ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear Prototypes.Plugins", "Bear Prototypes.Plugins.csproj", "{B62EC9D7-0748-B727-9D40-F0DEEF5CA5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear Prototypes.Editor.Plugins", "Bear Prototypes.Editor.Plugins.csproj", "{404CD30A-6F47-24B9-FEA6-C68E5DD76329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8D0A47-5B78-7E43-07E3-DAF1C1750ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8D0A47-5B78-7E43-07E3-DAF1C1750ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8D0A47-5B78-7E43-07E3-DAF1C1750ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8D0A47-5B78-7E43-07E3-DAF1C1750ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62EC9D7-0748-B727-9D40-F0DEEF5CA5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62EC9D7-0748-B727-9D40-F0DEEF5CA5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62EC9D7-0748-B727-9D40-F0DEEF5CA5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62EC9D7-0748-B727-9D40-F0DEEF5CA5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404CD30A-6F47-24B9-FEA6-C68E5DD76329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404CD30A-6F47-24B9-FEA6-C68E5DD76329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404CD30A-6F47-24B9-FEA6-C68E5DD76329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404CD30A-6F47-24B9-FEA6-C68E5DD76329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
