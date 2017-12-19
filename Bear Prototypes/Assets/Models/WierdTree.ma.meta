@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: dd78b1d94e40df3438b6fbd24fb89a34
+timeCreated: 1513232979
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CaryotaBranch10
+    100002: CaryotaBranch11
+    100004: CaryotaBranch12
+    100006: CaryotaBranch13
+    100008: CaryotaBranch14
+    100010: CaryotaBranch15
+    100012: CaryotaBranch16
+    100014: CaryotaBranch2
+    100016: CaryotaBranch3
+    100018: CaryotaBranch4
+    100020: CaryotaBranch5
+    100022: CaryotaBranch6
+    100024: CaryotaBranch7
+    100026: CaryotaBranch8
+    100028: CaryotaBranch9
+    100030: pCylinder49
+    100032: //RootNode
+    400000: CaryotaBranch10
+    400002: CaryotaBranch11
+    400004: CaryotaBranch12
+    400006: CaryotaBranch13
+    400008: CaryotaBranch14
+    400010: CaryotaBranch15
+    400012: CaryotaBranch16
+    400014: CaryotaBranch2
+    400016: CaryotaBranch3
+    400018: CaryotaBranch4
+    400020: CaryotaBranch5
+    400022: CaryotaBranch6
+    400024: CaryotaBranch7
+    400026: CaryotaBranch8
+    400028: CaryotaBranch9
+    400030: pCylinder49
+    400032: //RootNode
+    2300000: CaryotaBranch10
+    2300002: CaryotaBranch11
+    2300004: CaryotaBranch12
+    2300006: CaryotaBranch13
+    2300008: CaryotaBranch14
+    2300010: CaryotaBranch15
+    2300012: CaryotaBranch16
+    2300014: CaryotaBranch2
+    2300016: CaryotaBranch3
+    2300018: CaryotaBranch4
+    2300020: CaryotaBranch5
+    2300022: CaryotaBranch6
+    2300024: CaryotaBranch7
+    2300026: CaryotaBranch8
+    2300028: CaryotaBranch9
+    2300030: pCylinder49
+    3300000: CaryotaBranch10
+    3300002: CaryotaBranch11
+    3300004: CaryotaBranch12
+    3300006: CaryotaBranch13
+    3300008: CaryotaBranch14
+    3300010: CaryotaBranch15
+    3300012: CaryotaBranch16
+    3300014: CaryotaBranch2
+    3300016: CaryotaBranch3
+    3300018: CaryotaBranch4
+    3300020: CaryotaBranch5
+    3300022: CaryotaBranch6
+    3300024: CaryotaBranch7
+    3300026: CaryotaBranch8
+    3300028: CaryotaBranch9
+    3300030: pCylinder49
+    4300000: pCylinder49
+    4300002: CaryotaBranch2
+    4300004: CaryotaBranch3
+    4300006: CaryotaBranch4
+    4300008: CaryotaBranch5
+    4300010: CaryotaBranch6
+    4300012: CaryotaBranch7
+    4300014: CaryotaBranch8
+    4300016: CaryotaBranch9
+    4300018: CaryotaBranch10
+    4300020: CaryotaBranch11
+    4300022: CaryotaBranch12
+    4300024: CaryotaBranch13
+    4300026: CaryotaBranch14
+    4300028: CaryotaBranch15
+    4300030: CaryotaBranch16
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
